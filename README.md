@@ -2,7 +2,7 @@
 Agrupación geográfica de ítems lógicos usando K-Means aplicado a coordinadas de latitud y longitud. Incluye visualización en mapa interactivo y análisis con el método del código. Proyecto desarrollado en Google Colab con enfoque en optimización logística y análisis espacial.
 # 📍 Clustering Geográfico de Ítems Logísticos con K-Means
 
-Este repositorio contiene un cuaderno interactivo de Google Colab para aplicar **K-Significa** sobre coordinadas geográficas (`latitud`, `longitud`) de ítems logísticos, con el fin de agruparlos según proximidad espacial. Está enfermo para aplicaciones de **análisis geoespacial**, **optimización logística**, **agricultura de entregas** o **segmentación territorial**.
+Este repositorio contiene un cuaderno interactivo de Google Colab para aplicar **K-Significa** sobre coordinadas geográficas (`latitud`, `longitud`) de ítems logísticos, con el fin de agruparlos según proximidad espacial. Está enfermo para aplicaciones de **análisis geoespacial**, **optimizacion logística**, **agricultura de entregas** o **segmentación territorial**.
 
 ---
 
@@ -16,7 +16,7 @@ Este repositorio contiene un cuaderno interactivo de Google Colab para aplicar *
 
 ---
 
-## ?? ¦ Tecnologías y bibliotecas utilizadas
+##  Tecnologías y bibliotecas utilizadas
 
 - Pitón 3
 - Colaboración de Google
